@@ -1,21 +1,21 @@
 # Compiled class file
-*.class
+*.class sarpr4s
 
 # Log file
-*.log
+*.log login
 
 # BlueJ files
-*.ctxt
+*.ctxt sarpr4s
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
+.mtj.tmp/images/img-/storage/emulated/0/profile photos/project sarpr4s 20200422_075820.jpg
 
 # Package Files #
 *.jar
-*.war
+*.war 
 *.nar
 *.ear
-*.zip
+*.zip = muhammadrizal1.zip
 *.tar.gz
 *.rar
 
